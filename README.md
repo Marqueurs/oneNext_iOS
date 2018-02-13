@@ -1,4 +1,4 @@
-# oneNextSDK_iOS
+# oneNext_iOS
 Repository for oneNext iOS framework
 
 ### Content
