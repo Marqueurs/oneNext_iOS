@@ -1,0 +1,6 @@
+framework module oneNext_iOS {
+  umbrella header "oneNext_iOS.h"
+
+  export *
+  module * { export * }
+}
