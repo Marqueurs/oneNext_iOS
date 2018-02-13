@@ -1,4 +1,4 @@
-# oneNextSDK-iOS
+# oneNextSDK_iOS
 Repository for oneNext iOS framework
 
 ### Content
@@ -17,7 +17,7 @@ CocoaPods is a dependency manager which automates and simplifies the process of 
 
 ```ruby
 target 'MyProject' do
-pod 'oneNext-iOS', '~>1.0.1'
+pod 'oneNext_iOS', '~>1.0.1'
 end
 ```
 
