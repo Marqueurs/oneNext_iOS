@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'oneNext_iOS'
-  s.version = '1.0.2'
+  s.version = '1.0.3'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.platform = :ios
   s.summary = 'OneNext iOS SDK'

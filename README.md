@@ -13,11 +13,11 @@ CocoaPods is a dependency manager which automates and simplifies the process of 
 
 ### Podfile
 
-- iOS application, add to your pod file : 
+- iOS application, add to your Podfile : 
 
 ```ruby
 target 'MyProject' do
-pod 'oneNext_iOS', '~>1.0.2'
+pod 'oneNext_iOS', '~>1.0.3'
 end
 ```
 
