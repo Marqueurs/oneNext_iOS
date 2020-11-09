@@ -1,5 +1,5 @@
 # oneNext_iOS
-Repository for oneNext iOS framework
+Repository for oneNext iOS framework 1.0.4
 
 ### Content
 * Tag iPhone / iPad
