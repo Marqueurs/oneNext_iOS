@@ -11,7 +11,6 @@
     @protected
     NSString *_serial;
     NSString *_customerData;
-    BOOL _useIDFA;
     oneNextLoggingMode _loggingMode;
 }
 
@@ -21,7 +20,6 @@
 
 @property (nonatomic, readonly) NSString *serial;
 @property (nonatomic, readonly) NSString *customerData;
-@property(assign) BOOL useIDFA;
 
 ////////////////////////////////////////////////////////////////////////////////
 
